@@ -26,12 +26,13 @@ This project was developed as part of a IE-201 course during our Electrical Engi
 - Arduino IDE (C/C++)
 
 ## 👥 Team
-1-Abdulelah Al-Qahtani 
-2-Ibrahim Al-Sulami
-3-Abdulaziz Al-Qahtani
-4-Yazan Assiri
-5-Abdulmehsen Al-Bladi
-6-Ibrahim Al-Noger
+
+1. Abdulelah Al-Qahtani
+2. Ibrahim Al-Sulami
+3. Abdulaziz Al-Qahtani
+4. Yazan Assiri
+5. Abdulmehsen Al-Bladi
+6. Ibrahim Al-Noger
 
 ## 📸 Demo
 
